@@ -1,0 +1,5 @@
+{
+  "name": "Monograf.IA",
+  "description": "An application to support the writing and formatting of academic papers (TCC, Monographs, Scientific Articles) in compliance with ABNT standards, integrated with AI for content generation and review.",
+  "requestFramePermissions": []
+}
